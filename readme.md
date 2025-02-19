@@ -20,4 +20,4 @@ This is my personal **Portfolio Website**, designed to showcase my professional 
 
 ---
 
-This version is more detailed and structured, focusing on the features of the portfolio.
+
