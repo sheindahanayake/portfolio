@@ -47,4 +47,4 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-This **README.md** provides a detailed overview of your portfolio project, along with setup instructions and deployment information. It's perfect for your Git repository!
+
